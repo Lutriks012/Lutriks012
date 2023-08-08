@@ -1,4 +1,4 @@
-### Hi there 👋
+Olá, sou aluno de Defesa Cibernética!
 
 <!--
 **Lutriks012/Lutriks012** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
